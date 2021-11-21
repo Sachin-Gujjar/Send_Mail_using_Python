@@ -9,4 +9,4 @@ Using demo.py you can easily send simple mails containing simple message, images
 For html format use  demo_html.py.
 
 
-Thankyou :) 
+Thankyou  :) 
